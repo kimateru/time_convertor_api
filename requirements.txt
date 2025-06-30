@@ -1,6 +1,7 @@
 fastapi>=0.100.0
 uvicorn>=0.20.0
 pydantic>=2.0.0
-pytz
-geopy
-timezonefinder 
+pytz>=2023.3
+geopy>=2.3.0
+timezonefinder>=6.1.0
+pycountry>=22.3.5
